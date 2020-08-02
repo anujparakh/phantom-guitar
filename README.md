@@ -1,2 +1,2 @@
 # phantom-guitar
-A 2016 project I worked on using a LightBlue Bean to allow you to play guitar without a real guitar.
+A 2016 project I worked on using a LightBlue Bean to allow you to play guitar without a real guitar. The LightBlue Bean device has an onboard accelerometer that I use to check if the user is playing a chord, and it connects to an Android app or a MacOS app via BLE (Bluetooth Low Energy). The app figures out if a chord is played using the accelerometer and the chord is selected on the app and played using pre-recorded sounds.
