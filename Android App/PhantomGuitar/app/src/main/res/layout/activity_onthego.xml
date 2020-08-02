@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00aaaa">
+
+<TextView
+    android:id="@+id/c0_0"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="C"
+    android:layout_gravity="top|left"
+    android:gravity="center"
+    android:background="@drawable/chord_outline"
+    android:textColor="#aaff69"
+    android:textSize="25dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="30dp"
+    />
+
+<TextView
+    android:id="@+id/c0_1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="F"
+    android:layout_gravity="top|right"
+    android:gravity="center"
+    android:background="@drawable/chord_outline"
+    android:textColor="#aaff69"
+    android:textSize="25dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="30dp"
+    />
+
+
+    <TextView
+        android:id="@+id/c1_0"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="G"
+    android:layout_gravity="top|left"
+    android:gravity="center"
+    android:background="@drawable/chord_outline"
+    android:textColor="#aaff69"
+    android:textSize="25dp"
+    android:layout_marginTop="150dp"
+    android:layout_marginLeft="30dp"
+    />
+
+    <TextView
+
+        android:id="@+id/c1_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="D"
+        android:layout_gravity="top|right"
+        android:gravity="center"
+        android:background="@drawable/chord_outline"
+        android:textColor="#aaff69"
+        android:textSize="25dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginRight="30dp"
+        />
+    <TextView
+        android:id="@+id/c2_0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="E"
+        android:layout_gravity="top|left"
+        android:gravity="center"
+        android:background="@drawable/chord_outline"
+        android:textColor="#aaff69"
+        android:textSize="25dp"
+        android:layout_marginTop="295dp"
+        android:layout_marginLeft="30dp"
+        />
+
+    <TextView
+        android:id="@+id/c2_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Em"
+        android:layout_gravity="top|right"
+        android:gravity="center"
+        android:background="@drawable/chord_outline"
+        android:textColor="#aaff69"
+        android:textSize="25dp"
+        android:layout_marginTop="295dp"
+        android:layout_marginRight="30dp"
+        />
+    <TextView
+        android:id="@+id/c3_0"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:layout_gravity="top|left"
+        android:gravity="center"
+        android:background="@drawable/chord_outline"
+        android:textColor="#aaff69"
+        android:textSize="25dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginLeft="30dp"
+        />
+
+    <TextView
+        android:id="@+id/c3_1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Am"
+        android:layout_gravity="top|right"
+        android:gravity="center"
+        android:background="@drawable/chord_outline"
+        android:textColor="#aaff69"
+        android:textSize="25dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="30dp"
+        />
+
+
+
+</FrameLayout>
